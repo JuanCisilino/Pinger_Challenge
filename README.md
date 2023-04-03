@@ -1,4 +1,4 @@
-# Pinner Challenge
+# Pinger Challenge
 
 Convertion from xml to JetPack Compose
 
