@@ -1,6 +1,6 @@
 # Pinner Challenge
 
-Convertion from xml to JetPack Compose
+Convertion from xml to JetPack Compose/n
 Convertions from RxJava to Flow
 Dependency injections implemented Hilt
 
